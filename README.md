@@ -272,6 +272,7 @@ Use design patterns such that it can be reused in multiple applications.
 #### Useful Websites
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
+* [System Designer](https://systemdesigner.io/) - Free browser game for practising system design. Hosted play requires Google or GitHub sign-in.
 
 
 
